@@ -55,3 +55,7 @@ This repository contains two main components:
 
   ```bash
   pip install opencv-python pyserial openai edge_tts
+
+
+
+https://youtu.be/fiaiob2a_jM
